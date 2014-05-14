@@ -8,6 +8,3 @@ Shoutkey is a web app that creates short-lived, shoutable urls for sharing. We'r
 
 ## Dependencies
 Mixed in modules often depend on the object having certain methods defined. The Link class must implement the `#url` method. (Your method doesn't need the pound sign. It's a way of denoting an instance method. `Link#url`).
-
-## Order
-There are 2 tests in this assignment. Complete the tests in the link spec, since the class Link is used in the shoutable tests.
