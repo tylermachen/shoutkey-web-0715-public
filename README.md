@@ -3,9 +3,6 @@ languages: ruby
 tags: scraping, nokogiri, modules, mixins
 ---
 
-# bundle
-run `bundle` in this directory to get all of the dependencies
-
 # Shoutkey
 Shoutkey is a web app that creates short-lived, shoutable urls for sharing. We're going to create a module that uses this service. We'll then mix it in to a Link class we create.
 
