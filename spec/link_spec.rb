@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe Link do
   describe "base requirements" do
     it "has a #url method" do
