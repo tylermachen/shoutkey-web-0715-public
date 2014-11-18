@@ -1,6 +1,6 @@
 ---
 languages: ruby
-tags: scraping, nokogiri, modules, mixins
+tags: scraping, nokogiri, modules, mixins, bonus
 ---
 
 # Shoutkey
