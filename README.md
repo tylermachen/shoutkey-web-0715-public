@@ -1,7 +1,4 @@
----
-languages: ruby
-tags: scraping, nokogiri, modules, mixins, bonus
----
+
 
 # Shoutkey
 Shoutkey is a web app that creates short-lived, shoutable urls for sharing. 
